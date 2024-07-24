@@ -1,0 +1,2 @@
+1) https://www.geeksforgeeks.org/problems/even-odd-java/1?page=1&category=Java-Control-Flow&sortBy=submissions 
+2) https://codeforces.com/contest/4/problem/A
