@@ -5,7 +5,7 @@ public class BinaryRightAngleTraingle {
             int var = it&1; 
             for(int j = 1; j <= it; j++){
                 System.out.print(var + " ");
-                var = var == 1 ? 0 : 1;
+                 var = var == 1 ? 0 : 1;
 //                if(var == 1)var = 0;
 //                else var = 1;
             }

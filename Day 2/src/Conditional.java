@@ -1,10 +1,12 @@
 public class Conditional {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 20;
+        int a = 20;
+        int b = 10;
         int c = 55;
 
         int large = 0;
+
+
         // we have to find large number
 //        if(a > b && a > c){
 //            System.out.println(a);
@@ -15,7 +17,7 @@ public class Conditional {
 //        else{
 //            System.out.println(c);
 //        }
-       large = a > b ? a : b;
+        large = a > b ? a : b;
         System.out.println(large);
     }
 }
